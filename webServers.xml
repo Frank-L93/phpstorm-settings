@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac3ea766-eb68-4f74-8446-064ad3c3628e" name="KeizerPHP" url="http://keizerphp.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
